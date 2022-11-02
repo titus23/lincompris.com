@@ -343,7 +343,7 @@ h6 {
 #hero {
   width: 100%;
   position: relative;
-  background: url("../img/hero-bg.png") center bottom no-repeat;
+  background: url("../img/hero-bg1.png") center bottom no-repeat;
   background-size: cover;
   padding: 200px 0 120px 0;
 }
@@ -703,8 +703,8 @@ section {
 }
 
 #why-us .card {
-  background: #00458f;
-  border-color: #00458f;
+  background: #2468f1;
+  border-color: #619ee0;
   border-radius: 10px;
   margin: 0 15px;
   padding: 15px 0;
@@ -721,8 +721,8 @@ section {
 }
 
 #why-us .card:hover {
-  background: #003b7a;
-  border-color: #003b7a;
+  background: #2468f1;
+  border-color: #619ee0;
 }
 
 #why-us .card i {
@@ -746,7 +746,7 @@ section {
   font-weight: 600;
   display: inline-block;
   transition: 0.3s ease-in-out;
-  border-bottom: #00458f solid 2px;
+  border-bottom: #2468f1 solid 2px;
 }
 
 #why-us .card .readmore:hover {
@@ -901,7 +901,7 @@ section {
 }
 
 #portfolio .portfolio-item .portfolio-wrap:hover {
-  background: #003166;
+  background: #2468f1;
 }
 
 #portfolio .portfolio-item .portfolio-wrap:hover .portfolio-info {
@@ -1344,14 +1344,14 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #00428a;
+  background: #2468f1;
   padding: 0 0 30px 0;
   color: #eee;
   font-size: 14px;
 }
 
 #footer .footer-top {
-  background: #004a99;
+  background: #2468f1;
   padding: 60px 0 30px 0;
 }
 
